@@ -26,20 +26,20 @@
 ## Вычисление **OR**
 В Unity, на пустом объекте, я заполнил список Ts, содержащий данные для обучения перцептрона. Эти значения соответствовали результатам логической операции "ИЛИ" для бинарного сложения
 
-<img width="1505" height="910" alt="image" src="https://github.com/user-attachments/assets/48147dc0-f5a3-47ab-a896-eb516b9f563b" />
+<img width="1501" height="910" alt="image" src="https://github.com/user-attachments/assets/d6053161-e8ea-4f7a-817b-014e237d11db" />
 
 ## Вычисление **AND**
 
-<img width="1510" height="915" alt="image" src="https://github.com/user-attachments/assets/aaa6b4d8-05b7-440b-bda0-e412c8b003b7" />
+<img width="1505" height="909" alt="image" src="https://github.com/user-attachments/assets/9301b389-4a72-4c1b-b346-72e5e8531534" />
 
 ## Вычисление **NAND**
 
-<img width="1509" height="915" alt="image" src="https://github.com/user-attachments/assets/4be4d5da-9173-4b7f-8bd9-76330a0ec9ee" />
+<img width="1507" height="909" alt="image" src="https://github.com/user-attachments/assets/d5677750-a69f-4134-8570-9c9b9c36576d" />
 
 ## Вычисление **XOR**
 XOR представляет собой набор нелинейно связанных данных. Из-за этой особенности перцептрон не способен корректно их обработать, так как он рассчитан исключительно на работу с линейно разделимыми данными. В результате, попытка обучить перцептрон на таких данных неизбежно приведет к ошибке. 
 
-<img width="1497" height="911" alt="image" src="https://github.com/user-attachments/assets/7a41106e-7d53-49e9-a160-cdfac59060e6" />
+<img width="1507" height="912" alt="image" src="https://github.com/user-attachments/assets/dc096ad9-bd3d-45f4-b233-8daf5873b1f3" />
 
 ## Задание 2
 
@@ -78,3 +78,4 @@ XOR представляет собой набор нелинейно связа
 ## Powered by
 
 **BigDigital Team: Denisov | Fadeev | Panov**
+
