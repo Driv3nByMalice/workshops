@@ -54,7 +54,7 @@
 - Для начала нужно определить как меняется выбранная мной игровая переменная:
 Здоровье игрока меняется в зависимсоти от полученного им урона, следовательно, изменение этой переменной зависит от игрока и его навыка. Поскольку есть множество вариантов изменения этого параметра, я выбрал ситуацию, когда игрок периодически получает урон.
 - Благодаря выбранной ситуации график изменения переменной выглядит, как прямая (В более сложных ситуациях график может иметь более сложное поведение):
-<img width="1654" height="826" alt="image" src="https://github.com/user-attachments/assets/4a31cbae-e3c6-4e7b-9b4f-1b9291a5a3c1" />
+<img width="1530" height="762" alt="image" src="https://github.com/user-attachments/assets/9afa0df4-640d-4df3-90c4-9ec1b94f5455" />
 Ссылка на таблицу: https://docs.google.com/spreadsheets/d/1IUh0FghrUFsQhuaDQMJUqyBqL8lvCbQQc-xJ8NylhNI/edit?gid=0#gid=0
 - Из графика видно что величина меняется от 30 до 0, уменьшение величины происходит когда игрок получает урон (в данном примере -10), а увеличение, когда игрок использует навык вампиризм или заканчивает волну. Недостатков в реализации величины нет, так как она изменяется логично и просто.
 - Заполнение таблицы было выполненно с помощью кода на Python:
@@ -178,7 +178,7 @@ public class NewBehaviourScript : MonoBehaviour
 }
 ```
 - Ниже в Unity наглядно показано изменение здоровья и то, что скрипт работает верно.
-<img width="1498" height="846" alt="image" src="https://github.com/user-attachments/assets/286825dd-a017-45e5-a07d-7af64ad2bf60" />
+<img width="1499" height="865" alt="image" src="https://github.com/user-attachments/assets/08a7d8ac-82ed-4e5d-b9db-617d3330ca23" />
 
 ## Выводы
 
@@ -196,3 +196,4 @@ public class NewBehaviourScript : MonoBehaviour
 ## Powered by
 
 **BigDigital Team: Denisov | Fadeev | Panov**
+
