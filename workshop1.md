@@ -44,8 +44,7 @@
 - Скачать Anaconda и запустить Anaconda-Navigator.
 - Запустить инструмент Jupyter Notebook и создать файл с именем HelloWorld.
 - Открыть созданный файл с именем HelloWorld, написать в него команду print() с характерным содержанием и запустить выполнение, нажав Run.
-<img width="1913" height="343" alt="image" src="https://github.com/user-attachments/assets/a756c90c-533c-4bee-b329-ebf0084cf91b" />
-
+<img width="1908" height="345" alt="image" src="https://github.com/user-attachments/assets/7582afc1-2d4e-45d3-82cd-b3540b372cf1" />
 
 ## Задание 2
 ### Написать программу Hello World на C# с запуском на Unity.
@@ -70,10 +69,7 @@ public class Helloworld : MonoBehaviour
     }
 }
 ```
-<img width="1502" height="819" alt="image" src="https://github.com/user-attachments/assets/6d1edbef-a488-4be2-906a-9db947b9f1e0" />
-
-
-
+<img width="1501" height="880" alt="image" src="https://github.com/user-attachments/assets/13e3032d-3c98-4c33-a481-bb7bea43ffc8" />
 
 ## Выводы
 
@@ -91,3 +87,4 @@ public class Helloworld : MonoBehaviour
 ## Powered by
 
 **BigDigital Team: Denisov | Fadeev | Panov**
+
